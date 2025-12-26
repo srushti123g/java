@@ -1,0 +1,26 @@
+p{
+    text-align:start;
+    font-weight: bold;
+    text-transform:uppercase;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+h1,h2,h3{
+    text-decoration:black dotted underline;
+    text-align: center;
+    font-weight: lighter;
+    font-family:cursive;
+
+}
+#one{
+    font-size:50px;
+    line-height:50px;
+
+}
+
+a{
+    text-decoration:none;
+}
+body{background-color:rgb(222, 167, 216);}
+#h1{
+    font-weight:900
+}
